@@ -1,0 +1,16 @@
+# 系統與環境
+__pycache__/
+.env
+.venv/
+env/
+
+# 專案運行產生檔
+*.log
+*.log.*
+processed_videos.txt
+
+# 暫存影音
+*.mp3
+*.m4a
+*.webm
+temp_audio*
